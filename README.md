@@ -13,7 +13,10 @@ While still in the terminal or command prompt, type:
 Use the cd command to navigate to the directory where your code is located. For example:
 <b>cd path/to/your/code/directory </b>
 
-#### 4- Run the Python Script:
+#### 4- Download yolov9 weights:
+Download yolov9 weigths and place in your Flask app code directory.
+
+#### 5- Run the Python Script:
 Once you're in the directory containing your webapp.py file, run the following command:
 <b>python webapp.py </b>
 
