@@ -3,7 +3,7 @@ Here are the step-by-step instructions for running the code:
 ##### 1- Install Ultralytics:
 Open your terminal or command prompt.
 Type the following command and hit Enter:
-pip install ultralytics
+<b>pip install ultralytics</b>
 
 ##### 2- Install Flask:
 While still in the terminal or command prompt, type:
