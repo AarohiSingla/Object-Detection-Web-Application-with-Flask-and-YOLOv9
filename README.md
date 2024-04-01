@@ -7,15 +7,15 @@ Type the following command and hit Enter:
 
 ##### 2- Install Flask:
 While still in the terminal or command prompt, type:
-pip install Flask
+<b>pip install Flask </b>
 
 ##### 3- Navigate to the Code Directory:
 Use the cd command to navigate to the directory where your code is located. For example:
-cd path/to/your/code/directory
+<b>cd path/to/your/code/directory </b>
 
 #### 4- Run the Python Script:
 Once you're in the directory containing your webapp.py file, run the following command:
-python webapp.py
+<b>python webapp.py </b>
 
 Following these steps should launch your Flask web application, allowing you to access it through a web browser or any other HTTP client.
 
